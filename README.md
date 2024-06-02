@@ -15,3 +15,13 @@ git clone https://github.com/mehulbatra08/fyle-assignment
 
 ### Navigate to the project directory
 cd fyle-assignment
+
+The Website is Deployed and can be accessed from here
+https://digifyle.netlify.app/
+
+
+
+
+
+https://github.com/mehulbatra08/fyle-assignment/assets/100890785/e0f32fff-6a87-44ae-a356-82cd5df29c47
+
